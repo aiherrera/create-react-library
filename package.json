@@ -28,6 +28,7 @@
     "build": "rollup -c",
     "test": "jest",
     "test:watch": "jest --watch",
+    "generate": "node ./util/create-component",
     "storybook": "start-storybook -p 6006",
     "storybook:build": "build-storybook",
     "prepublish": "npm run build"
