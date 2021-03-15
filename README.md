@@ -57,6 +57,6 @@ This will generate:
     
 > The default templates for each file can be modified under util/templates.
 
-> You can type the component name in lowecase mode the command will Capitilized your component on generation time.
+> You can type the component name in lowercase mode the command will Capitilized your component on generation time.
 
 > Don't forget to add the component to your index.ts exports if you want the library to export the component!
