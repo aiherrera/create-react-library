@@ -55,7 +55,8 @@ This will generate:
     YourComponentName.types.ts
     YourComponentName.scss
     
-*The default templates for each file can be modified under util/templates.
-*You can type the component name in lowecase mode the command will Capitilized your component on generation time.
+> The default templates for each file can be modified under util/templates.
 
-*Don't forget to add the component to your index.ts exports if you want the library to export the component!
+> You can type the component name in lowecase mode the command will Capitilized your component on generation time.
+
+> Don't forget to add the component to your index.ts exports if you want the library to export the component!
