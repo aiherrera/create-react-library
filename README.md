@@ -47,6 +47,7 @@ I've included a handy NodeJS util file under util called create-component.js. In
 npm run generate YourComponentName
 This will generate:
 
+```
 /src
   /YourComponentName
     YourComponentName.tsx
@@ -54,7 +55,8 @@ This will generate:
     YourComponentName.test.tsx
     YourComponentName.types.ts
     YourComponentName.scss
-    
+```
+
 > The default templates for each file can be modified under util/templates.
 
 > You can type the component name in lowercase mode the command will Capitilized your component on generation time.
